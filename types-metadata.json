@@ -1,0 +1,25 @@
+{
+    "authors": "Phú <https://github.com/phuvo>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [],
+    "moduleDependencies": [],
+    "libraryMajorVersion": "0",
+    "libraryMinorVersion": "0",
+    "libraryName": "credential",
+    "typingsPackageName": "credential",
+    "projectName": "https://github.com/ericelliott/credential",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "ProperModule",
+    "globals": [
+        "credential"
+    ],
+    "declaredModules": [
+        "credential"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "afc5f3e711a9d0ae6343782b8f8bc90c95609e8653ea2e1c031bca6ea37d6d72"
+}

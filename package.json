@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "Karl Böhlmark",
+    "email": "https://github.com/karlbohlmark"
+  },
+  "dependencies": {},
+  "description": "TypeScript definitions for credential",
+  "devDependencies": {},
+  "license": "MIT",
+  "name": "@karboh-types/credential",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/karlbohlmark/typings-credential.git"
+  },
+  "scripts": {},
+  "typings": "index.d.ts",
+  "version": "0.0.1"
+}
